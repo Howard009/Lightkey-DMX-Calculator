@@ -1,0 +1,3 @@
+([('dmx_calculator',
+   '/Users/howardkessa/Documents/Python/dmx_file/dist/dmx_calculator',
+   'EXECUTABLE')],)
