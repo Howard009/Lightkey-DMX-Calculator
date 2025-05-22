@@ -14,7 +14,9 @@ A simple, clean desktop tool built with Python and Tkinter to convert percentage
 
 ## 📸 Screenshot
 
-![Screenshot](screenshot.png) <!-- Optional: Add a screenshot to your repo -->
+!<img width="712" alt="Screenshot 2025-05-22 at 9 55 05 AM" src="https://github.com/user-attachments/assets/cdb26acf-0895-427a-81d3-418b89e7ea32" />
+[Uploading Screenshot 2025-05-22 at 9.55.05 AM.png…]()
+ <!-- Optional: Add a screenshot to your repo -->
 
 ---
 
